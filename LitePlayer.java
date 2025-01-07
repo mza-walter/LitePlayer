@@ -34,7 +34,7 @@ public class LitePlayer extends Application {
   boolean mute_flag = false;
   boolean stop_flag = false;
   
-  private String PATH = "/home/mza_almighty/Music/Paradzai Mesi and Njerama boys - pahukama [zviri pachena album ].mp3";
+  private String PATH = "/home/mza_almighty/Music/Kurarama Inyasha [V73ZodWrELw].mp3";
  
   File f = new File(PATH);
   Media media = new Media(f.toURI().toString());
